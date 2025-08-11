@@ -30,12 +30,12 @@ export const DATA = {
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "hello@example.com",
-    tel: "+123456789",
+    email: "abalaraman1@uchicago.edu",
+    tel: "+1 630-601-9505",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://dub.sh/dillion-github",
+        url: "https://github.com/Ashy46",
         icon: Icons.github,
 
         navbar: true,
@@ -54,15 +54,9 @@ export const DATA = {
 
         navbar: true,
       },
-      Youtube: {
-        name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
-        icon: Icons.youtube,
-        navbar: true,
-      },
       email: {
         name: "Send Email",
-        url: "#",
+        url: "abalaraman1@uchicago.edu",
         icon: Icons.email,
 
         navbar: false,
@@ -72,16 +66,16 @@ export const DATA = {
 
   work: [
     {
-      company: "Atomic Finance",
-      href: "https://atomic.finance",
+      company: "Simcare AI (YCS24)",
+      href: "https://app.simcare.ai",
       badges: [],
-      location: "Remote",
-      title: "Bitcoin Protocol Engineer",
-      logoUrl: "/atomic.png",
-      start: "May 2021",
-      end: "Oct 2022",
+      location: "San Francisco, CA",
+      title: "Software Developer / Summer Intern",
+      logoUrl: "/simcare-ai.png",
+      start: "Jun 2025",
+      end: "Aug 2025",
       description:
-        "Implemented the Bitcoin discreet log contract (DLC) protocol specifications as an open source Typescript SDK. Dockerized all microservices and setup production kubernetes cluster. Architected a data lake using AWS S3 and Athena for historical backtesting of bitcoin trading strategies. Built a mobile app using react native and typescript.",
+        "Selected to join Y Combinator startup to develop new enhancements to their AI-based clinical training platform. Developed 2 products for pre-med students to assist with interview prep (Casper.ai & interview.ai). The 2 products helped drive $30K growth in monthly recurring revenue in a 2-month window. Created a system to provide analytics driven user feedback using Celery, Supabase, and FastAPI backend.",
     },
     {
       company: "Shopify",
