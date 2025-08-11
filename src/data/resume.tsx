@@ -153,7 +153,7 @@ export const DATA = {
       ],
       links: [],
       image: "",
-      video: "",
+      video: "/emailify.mp4",
     },
     {
       title: "Mint",
@@ -170,7 +170,7 @@ export const DATA = {
       ],
       links: [],
       image: "",
-      video: "",
+      video: "/mintcashback.mp4",
     },
     {
       title: "AI @ UChicago",
