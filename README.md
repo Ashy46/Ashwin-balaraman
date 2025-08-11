@@ -1,47 +1,67 @@
+# Hi, I'm Ashwin Balaraman 👋
+
 <div align="center">
-<img alt="Portfolio" src="https://github.com/dillionverma/portfolio/assets/16860528/57ffca81-3f0a-4425-b31d-094f61725455" width="90%">
+  <img src="./public/Ashwin-Headshot.png" alt="Ashwin Balaraman" width="200" height="200" style="border-radius: 50%;">
 </div>
 
-# Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdillionverma%2Fportfolio)
+## About Me
 
-Built with next.js, [shadcn/ui](https://ui.shadcn.com/), and [magic ui](https://magicui.design/), deployed on Vercel.
+I'm an **aspiring Software Engineer** and student at the **University of Chicago**, pursuing a double major in **Computer Science and Economics** with a **3.9 GPA**. I'm passionate about building innovative solutions, contributing to startups, and solving complex problems through technology.
 
-# Features
+When I'm not coding, you can find me playing tennis, reading, or playing a game of poker! 🎾📚♠️
 
-- Setup only takes a few minutes by editing the [single config file](./src/data/resume.tsx)
-- Built using Next.js 14, React, Typescript, Shadcn/UI, TailwindCSS, Framer Motion, Magic UI
-- Includes a blog
-- Responsive for different devices
-- Optimized for Next.js and Vercel
+## 🛠️ Tech Stack
 
-# Getting Started Locally
+**Languages:** Python, JavaScript, TypeScript, Java, C, Go, SQL  
+**Frontend:** React, React Native, Next.js, HTML, CSS  
+**Backend:** FastAPI, Node.js, Celery  
+**Databases:** PostgreSQL, MongoDB, Supabase  
+**Tools & Platforms:** Docker, Expo Go, LiveKit, Langchain  
+**Specialties:** Machine Learning, AI Development, Quantitative Finance  
 
-1. Clone this repository to your local machine:
+## 🚀 Featured Projects
 
-   ```bash
-   git clone https://github.com/dillionverma/portfolio
-   ```
+### [Emailify](https://github.com/Ashy46) 
+**Customer Support AI Agent**  
+- Built with Celery, Gemini, Langchain, and FastAPI
+- Helped 3 Shopify businesses reduce operating costs and response times
+- *Technologies: Python, FastAPI, Celery, Gemini, Langchain*
 
-2. Move to the cloned directory
+### [Mint](https://github.com/Ashy46)
+**Smart Shopping Assistant**  
+- Chrome extension and web app helping 200+ users save over $1,000
+- Received non-equity startup grant from LTF Ventures UChicago
+- *Technologies: Extension.JS, Next.js, TypeScript, React*
 
-   ```bash
-   cd portfolio
-   ```
+### [Barter](https://github.com/Ashy46)
+**Consumer Product Exchange Platform**  
+- Scalable bartering app for mid and low-income segments
+- Serves 1.5K users in Amsterdam's low-income neighborhoods
+- *Technologies: React Native, Expo Go, Supabase*
 
-3. Install dependencies:
+## 🎯 Current Focus
 
-   ```bash
-   pnpm install
-   ```
+- 🔬 **AI & Machine Learning** - Executive Board member at AI @ UChicago
+- 📈 **Quantitative Finance** - Developing crypto trading strategies with 130% returns
+- 🏛️ **Options Trading** - Active in derivatives group and market making programs
 
-4. Start the local Server:
+## 📫 Let's Connect!
 
-   ```bash
-   pnpm dev
-   ```
+I'm always open to discussing new opportunities, collaborating on projects, or just having a great conversation about technology and innovation.
 
-5. Open the [Config file](./src/data/resume.tsx) and make changes
+**Email:** [abalaraman1@uchicago.edu](mailto:abalaraman1@uchicago.edu)  
+**LinkedIn:** [linkedin.com/in/ashwin-balaraman-512990329](https://www.linkedin.com/in/ashwin-balaraman-512990329)  
+**GitHub:** [github.com/Ashy46](https://github.com/Ashy46)  
+**Location:** Chicago, IL 📍
 
-# License
+---
 
-Licensed under the [MIT license](https://github.com/dillionverma/portfolio/blob/main/LICENSE.md).
+## 🌐 Portfolio Website
+
+This repository contains the source code for my personal portfolio website, built with modern web technologies:
+
+- **Framework:** Next.js 14 with TypeScript
+- **Styling:** TailwindCSS with Shadcn/UI components
+- **Animations:** Framer Motion and Magic UI
+- **Content:** MDX for blog posts
+- **Deployment:** Optimized for Vercel
